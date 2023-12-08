@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915733358063",
+    "project_id": "gymnesiam-39686",
+    "storage_bucket": "gymnesiam-39686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915733358063:android:e9dbf6723f0d75b8bc421a",
+        "android_client_info": {
+          "package_name": "com.example.vigorwellnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915733358063-oq81ivcami5ek5fkc9c0vu2rn4nuprka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYQquCTAympXkdYAW4YxbmCHI8v-52tHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915733358063-oq81ivcami5ek5fkc9c0vu2rn4nuprka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
